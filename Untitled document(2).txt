@@ -1,0 +1,11 @@
+﻿4. Write a short note on html tags and element with example?
+
+
+ Ans : Tags : To define the structure and layouts of web pages tags are used it also defines the building blocks of the html document this tag provide instruction to web browsers on how to display the content. Example : opening tag - Closing tag - Tags are of two types : 1> Paired tags which have the opening and closing tags llike ,, etc. 2> Singular tags whicvh do not require a separate closing tag like ,
+etc. Elements : Elements are the building block of an html document elements consist of a start tag defines the beginning of an html element and a closing tag defines the ending of an element. HTML element has a specific structure that defines its behaviour and appearance on a web page. Here is a breakdown of the anatomy of an HTML element: 1) Opening tag : (< >) 2) Content 3) Closing tag : (/).
+
+
+5. What is the DOCTYPE declaration in Html? 
+
+
+Ans : The declaration is not a tag it is an information to the browser about what document type to expect or you can say it is a declaration that tells the browser what version of html the document is written in
